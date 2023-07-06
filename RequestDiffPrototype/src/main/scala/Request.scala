@@ -1,3 +1,5 @@
+import net.petitviolet.generic.diff._
+import com.github.dwickern.macros.NameOf._
 case class Request(
     icRef: String,
     nationalNumber: String,
