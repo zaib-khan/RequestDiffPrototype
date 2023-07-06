@@ -12,6 +12,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: com.chuusai:shapeless_2.13:2.3.3:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.github.dwickern:scala-nameof_2.13:4.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.petitviolet:generic-diff-macro_2.13:0.6.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.petitviolet:generic-diff_2.13:0.6.0:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.11:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.13.11:jar" level="project" />
   </component>
 </module>
